@@ -19,3 +19,43 @@
 Responsive with Mediaquery in css is hard,
 and has lot of challenges ,
 it need  to be practiced.
+
+                                                        Daily Tasks Report - [06/29]
+
+## Task Details
+
+1. Task 1: [Working On landbox site]
+   - Start time: [15:00]
+   - End time: [17:00]
+   - Duration: 2 H
+   - Progress: [Working on responsivity of landbox site ]
+
+2. Task 2: [Working On landbox site]
+   - Start time: [17:30]
+   - End time: [19:03]
+   - Duration: 1 H & 33 Min
+   - Progress: [countinue the responsiv issue]
+  
+  2. Task 3: [Learning and R&D]
+   - Start time: [19:30]
+   - End time: [20:36]
+   - Duration: 1 H & 06 Min
+   - Progress: [Watching some video of librarys in css and serching about it]
+   
+## Challenges and Roadblocks
+
+Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
+1. [Responsivity]
+   - Impact on tasks: [its need lot of time and its a problem]
+   - Solution/Workaround: [i did it finaly but i think it need a framework for that]
+
+## Next Steps
+
+Based on the progress made today and the remaining tasks, the following steps should be taken:
+
+1. The land box still need work to do
+2. from next week there are some task about bootstrap and tellwind
+
+## Conclusion
+
+Its a practice for the next projects.
