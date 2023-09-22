@@ -59,3 +59,38 @@ Based on the progress made today and the remaining tasks, the following steps sh
 ## Conclusion
 
 Its a practice for the next projects.
+
+
+# Daily Tasks Report - [06/30]
+
+## Task Details
+
+1. **Task 1**: [Retro]
+   - Start time: [11:00]
+   - End time: [12:30]
+   - Duration: 1 H & 30 Min
+   - Progress: its done
+   - Additional notes: its a good way to share our info
+     
+2. **Task 2**: [R & D]
+   - Start time: [12:45]
+   - End time: [15:10]
+   - Duration: 1 H & 40 Min
+   - Progress: its done(bootstrap chossed)
+   - Additional notes: R & D about bootstrap & tailwind and chose between these two
+
+## Challenges and Roadblocks
+
+Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
+
+-##-
+
+## Next Steps
+
+Based on the progress made today and the remaining tasks, the following steps should be taken:
+
+1. Start the Bootstrap and Javascript learning From next week
+
+## Conclusion
+
+-##-
