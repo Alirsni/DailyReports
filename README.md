@@ -94,3 +94,38 @@ Based on the progress made today and the remaining tasks, the following steps sh
 ## Conclusion
 
 -##-
+
+                                            # Daily Tasks Report - [07/1]
+
+## Task Details
+
+1. **Task 1**: [Learning Course]
+   - Start time: [15:37]
+   - End time: [18:48]
+   - Duration: 3 H & 11 Min
+   - Progress: its going on
+   - Additional notes: Learning the bootstrap
+     
+2. **Task 2**: [Learning course]
+   - Start time: [19:18]
+   - End time: [20:25]
+   - Duration: 1 H & 6 Min
+   - Progress: going on / need to be practiced
+   - Additional notes: Watching videos in Youtub and learning simple things
+
+## Challenges and Roadblocks
+
+Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
+
+-##-
+
+## Next Steps
+
+Based on the progress made today and the remaining tasks, the following steps should be taken:
+
+1.Stil watching and following it and then start the js learnings
+
+## Conclusion
+
+-##-
+
