@@ -129,3 +129,49 @@ Based on the progress made today and the remaining tasks, the following steps sh
 
 -##-
 
+                                              # Daily Tasks Report - [7/03]
+
+## Overview
+Its all about bootstrap.
+
+## Task Details
+
+1. **Task 1**: [Learning courses]
+   - Start time: [15:10]
+   - End time: [17:11]
+   - Duration: 2 H
+   - Progress: [Watching all video]
+   - Additional notes: watching videos of fast learning in youtub
+
+2. **Task 2**: [Learning courses]
+   - Start time: [17:30]
+   - End time: [19:05]
+   - Duration: 1 H 30 Min
+   - Progress: [watching videos and Reading the bootsrap docs]
+   - Additional notes: [review the bootstrap docs]
+
+3. **Task 3**: [Learning course]
+   - Start time: [19:30]
+   - End time: [20:50]
+   - Duration: 1 H & 20 Min
+   - Progress: [Reading the bootsrap docs]
+   - Additional notes: [review the bootstrap docs]
+
+## Challenges and Roadblocks
+
+Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
+
+1. [Editing codes]
+   - Impact on tasks: sometimes create some issues when use the classes in tags
+   - Solution/Workaround: [it should be writed by some rules]
+
+## Next Steps
+
+Based on the progress made today and the remaining tasks, the following steps should be taken:
+
+1. [work on a project with the bootstrap]
+
+## Conclusion
+
+The bootstrap framework is very useful and it can help in the projects.
+
