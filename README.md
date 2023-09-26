@@ -175,3 +175,43 @@ Based on the progress made today and the remaining tasks, the following steps sh
 
 The bootstrap framework is very useful and it can help in the projects.
 
+                                        # Daily Tasks Report - [7/04]
+
+## Overview
+bootstrap.
+
+## Task Details
+
+1. **Task 1**: [Learning courses]
+   - Start time: [15:18]
+   - End time: [17:40]
+   - Duration: 2 H 22 Min
+   - Progress: [Reading bootstrap docs and using it on project]
+   - Additional notes: -
+
+2. **Task 2**: [Learning courses]
+   - Start time: [18:06]
+   - End time: [20:30]
+   - Duration: 2 H 20 Min
+   - Progress: [Using docs on project]
+   - Additional notes: -
+
+## Challenges and Roadblocks
+
+Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
+
+1. [conflict codes]
+   - Impact on tasks: sometimes classes are conflicted
+   - Solution/Workaround: Use uniqe codes and classes
+
+## Next Steps
+
+Based on the progress made today and the remaining tasks, the following steps should be taken:
+
+1. [still work on a project with the bootstrap]
+
+## Conclusion
+
+The bootstrap framework can be very useful and it can help in the projects .
+
+
