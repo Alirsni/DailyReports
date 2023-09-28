@@ -216,7 +216,7 @@ The bootstrap framework can be very useful and it can help in the projects .
 
 
 
-                                             # Daily Tasks Report - [7/04]
+                                             # Daily Tasks Report - [7/05]
 
 ## Overview
 bootstrap.
