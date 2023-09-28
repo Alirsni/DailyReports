@@ -215,3 +215,50 @@ Based on the progress made today and the remaining tasks, the following steps sh
 The bootstrap framework can be very useful and it can help in the projects .
 
 
+
+                                             # Daily Tasks Report - [7/04]
+
+## Overview
+bootstrap.
+
+## Task Details
+
+1. **Task 1**: [Learning courses]
+   - Start time: [15:35]
+   - End time: [17:28]
+   - Duration: 1 H 52 Min
+   - Progress: [Working with bootstrap classes]
+   - Additional notes: design a part of page using the bootstrap
+
+2. **Task 2**: [Learning courses]
+   - Start time: [18:02]
+   - End time: [19:59]
+   - Duration: 1 H & 40 Min
+   - Progress: [Using docs on project]
+   - Additional notes: Workin with codes & watching videos of bootstrap designs
+  
+     3. **Task 3**: [Learning courses]
+   - Start time: [20:25]
+   - End time: [20:57]
+   - Duration: 30 Min
+   - Progress: [Using docs on project]
+   - Additional notes: Workin with codes & watching videos of bootstrap designs
+
+## Challenges and Roadblocks
+
+Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
+
+-
+
+## Next Steps
+
+Based on the progress made today and the remaining tasks, the following steps should be taken:
+
+1. [Starting to learn js]
+
+## Conclusion
+
+The bootstrap framework can be very useful and it is easy to use .
+
+
+
