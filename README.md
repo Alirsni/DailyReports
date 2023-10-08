@@ -3,53 +3,37 @@
 
 ## Overview
 
-subject is javascript
+Today is about the Beauty project and reviewing the jquery's code
 
 ## Task Details
 
 1. **Task 1**: [Learning courses]
-   - Start time: [15:14]
-   - End time: [17:02]
-   - Duration:  1 H & 47 Min 
-   - Progress: [Watching videos]
-   - Additional notes: Watching S3 videos about Javascript basics & Using the codes in Html
-   objects,events,if & elses , using time
+   - Start time: [15:25]
+   - End time: [16:56]
+   - Duration:  1 H & 31 Min 
+   - Progress: [Beauty project]
+   - Additional notes: Talking to guys about designing 3 pages (login/signup/dash) and work on it
 
 2. **Task 2**: [Learning courses]
-   - Start time: [17:28]
-   - End time: [18:07]
-   - Duration:  39 min
-   - Progress: [Watching videos]
-   - Additional notes: Watching S3 videos about Javascript basics & using the codes in html
-     objects,events,if & elses , using time
-
-     3. **Task 3**: [Learning courses]
-   - Start time: [18:28]
-   - End time: [19:55]
-   - Duration:  1 H & 12 min
-   - Progress: [Watching videos]
-   - Additional notes: Watching S5 videos ==> q&a Seminar recorded video
-  
-    4. **Task 4**: [Learning courses]
-   - Start time: [20:18]
-   - End time: [21:26]
-   - Duration:  1 H & 8 min
-   - Progress: [Watching videos]
-   - Additional notes: Watching half S6 videos about javascripts using in html and css changes
-  
+   - Start time: [17:54]
+   - End time: [21:00]
+   - Duration: 3 H 5 min
+   - Progress: [Beuty project]
+   - Additional notes: Working on designing , reviewing and using jquery codes in the project  
   
 
 ## Challenges and Roadblocks
 
 Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
-the codes are complicated and hard to wright and it still need time.
+Using jquery to scale some pics and unscale others is a little difficult.
+still not found a solution for this but i will find it.
 
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-still going on with javascript to full learning.
+learning java script will be continue and this project will too.
 
 
 ## Conclusion
-it was a tough day because i was't sleept enough last night.
-at all it was good and usefull in time.
+it was  helpful for reminding the jquery codes and designing.
+ا
