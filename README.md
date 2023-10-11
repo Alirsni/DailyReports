@@ -1,39 +1,38 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [07/15]
+                                                        Daily Tasks Report - [07/18]
 
 ## Overview
 
-Today is about the Beauty project and reviewing the jquery's code
+Today is about the Beauty project and Learning js and a little about Zhaket CMS
 
 ## Task Details
 
 1. **Task 1**: [Learning courses]
-   - Start time: [15:25]
-   - End time: [16:56]
-   - Duration:  1 H & 31 Min 
+   - Start time: [15:32]
+   - End time: [17:09]
+   - Duration:  1 H & 37 Min 
    - Progress: [Beauty project]
-   - Additional notes: Talking to guys about designing 3 pages (login/signup/dash) and work on it
+   - Additional notes: do some small changes on designing and get confirmed
 
 2. **Task 2**: [Learning courses]
-   - Start time: [17:54]
-   - End time: [21:00]
-   - Duration: 3 H 5 min
-   - Progress: [Beuty project]
-   - Additional notes: Working on designing , reviewing and using jquery codes in the project  
+   - Start time: [17:40]
+   - End time: [19:05]
+   - Duration: 1 H 25 min
+   - Progress: [Js learning]
+   - Additional notes: Watching s6 of learning js about Dom Element
   
 
 ## Challenges and Roadblocks
 
 Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
-Using jquery to scale some pics and unscale others is a little difficult.
-still not found a solution for this but i will find it.
+#
 
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-learning java script will be continue and this project will too.
+maybe from next day starting the Zhaket CMS
 
 
 ## Conclusion
-it was  helpful for reminding the jquery codes and designing.
+its good exprience for me and it ready me for the Zhaket CMS
 ا
