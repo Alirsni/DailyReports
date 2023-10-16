@@ -1,5 +1,5 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [07/23]
+                                                        Daily Tasks Report - [07/24]
 
 ## Overview
 
@@ -8,11 +8,11 @@ Today was about Zhaket CMS
 ## Task Details
 
 1. **Task 1**: [Zhaket]
-   - Start time: [19:30]
-   - End time: [22:31]
-   - Duration:  3 H & 1 Min 
-   - Progress: [Section two]
-   - Additional notes: Designing the section two (categorys)
+   - Start time: [18:43]
+   - End time: [21:55]
+   - Duration:  2 H & 33 Min 
+   - Progress: [Section three & Section four]
+   - Additional notes: Designing the section three (offers and prudoct category)
   
 
 ## Challenges and Roadblocks
@@ -23,9 +23,9 @@ Responsivity**
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-The Zhaket project is stardet and i will focous on it this week again
+this project is now my target
 
 
 ## Conclusion
-some pics are hard to change and put in the divs
+some parts are hard to design
 ا
