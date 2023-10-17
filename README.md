@@ -1,24 +1,26 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [07/24]
+                                                        Daily Tasks Report - [07/25]
 
 ## Overview
 
-Today was about Zhaket CMS
+Zhaket CMS
 
 ## Task Details
 
 1. **Task 1**: [Zhaket]
-   - Start time: [18:43]
-   - End time: [21:55]
-   - Duration:  2 H & 33 Min 
-   - Progress: [Section three & Section four]
-   - Additional notes: Designing the section three (offers and prudoct category)
+   - Start time: [18:57]
+   - End time: [21:45]
+   - Duration:  2 H & 47 Min 
+   - Progress: [Section three]
+   - Additional notes: Designing the section three slider for products with owlcarousel
   
 
 ## Challenges and Roadblocks
 
 Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
-Responsivity**
+Responsivity is the main problem**
+slider is so hard to design responsive
+
 
 ## Next Steps
 
@@ -27,5 +29,5 @@ this project is now my target
 
 
 ## Conclusion
-some parts are hard to design
+slider had some problems but is near to be done
 ا
