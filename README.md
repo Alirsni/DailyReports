@@ -1,38 +1,31 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [07/26]
+                                                        Daily Tasks Report - [07/29]
 
 ## Overview
 
-Zhaket CMS
-
+ Hiisun
+ 
 ## Task Details
 
-1. **Task 1**: [Zhaket]
-   - Start time: [10:18]
-   - End time: [12:00]
-   - Duration:  1 H & 42 Min 
-   - Progress: [Section five and section six]
-   - Additional notes: Designing the section three slider(done) and it use for section seven too
-   - the product categorys is done too
-2. **Task 2**: [Zhaket]
-   - Start time: [18:07]
-   - End time: [19:57]
-   - Duration:  1 H & 47 Min 
-   - Progress: [Section seven and eight]
-   - Additional notes: Designing the section seven (brands) and section eight (blogs)
+1. **Task 1**: [Hiisun]
+   - Start time: [15:12]
+   - End time: [21:32]
+   - Duration:  5 H & 32 Min 
+   - Progress: [almost done]
+   - Additional notes: designing the shop page with responsive , and some deatails is still remaining
+   - it almost done and need a little time with jquery things.
   
 
 ## Challenges and Roadblocks
 
 Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
-the slider is so hard to design but finally i done it.
-make responsive pages is also problem
+some part are a little challenging but with a good vision can be done easily.
 
 
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-maybe starting the next page
+first done this page and start designing the single product page of Hiisun.
 
 
 ## Conclusion
