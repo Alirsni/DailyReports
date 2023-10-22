@@ -1,5 +1,5 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [07/29]
+                                                        Daily Tasks Report - [07/30]
 
 ## Overview
 
@@ -8,27 +8,24 @@
 ## Task Details
 
 1. **Task 1**: [Hiisun]
-   - Start time: [15:12]
-   - End time: [21:32]
-   - Duration:  5 H & 32 Min 
-   - Progress: [almost done]
-   - Additional notes: designing the shop page with responsive , and some deatails is still remaining
-   - it almost done and need a little time with jquery things.
+   - Start time: [15:13]
+   - End time: [20:45]
+   - Duration:  5 H & 5 Min 
+   - Progress: [single product page]
+   - Additional notes: The shop page is done and the single product page is started and done half and need to be responsive
   
 
 ## Challenges and Roadblocks
 
 Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
-some part are a little challenging but with a good vision can be done easily.
+a good number input was not found and still need to be do. 
 
 
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-first done this page and start designing the single product page of Hiisun.
+This page is done untill tomorrow and next will be start
 
 
 ## Conclusion
-slider is done and it use in three section and it easier now
-after this i will go for footer and its done
-ا
+its need time to be done and its not very complicated.
