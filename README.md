@@ -1,5 +1,5 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [08/2]
+                                                        Daily Tasks Report - [08/3]
 
 ## Overview
 
@@ -8,24 +8,25 @@
 ## Task Details
 
 1. **Task 1**: [Hiisun]
-   - Start time: [16:40]
-   - End time: [21:00]
-   - Duration:  4 H 15 Min 
-   - Progress: [blog started]
-   - Additional notes: the single page is done and blog page is almost done.
+   - Start time: [15:51]
+   - End time: [18:00]
+   - Duration:  2 H  
+   - Progress: [single blog started]
+   - Additional notes: the singel blog is done too.
   
 
 ## Challenges and Roadblocks
 
 Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
-some pics need to get height and the overflow most be done
+not much
 
 
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-blog page is done tomorrow.
+startin other pages after chosing witch one is for whom
 
 
 ## Conclusion
-Nothing:)
+not much
+still gona do this
