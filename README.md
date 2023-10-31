@@ -1,5 +1,5 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [08/8]
+                                                        Daily Tasks Report - [08/9]
  
 ## Overview
 
@@ -8,26 +8,32 @@
 ## Task Details
 
 1. **Task 1**: [Hiisun]
-   - Start time: [20:35]
-   - End time: [22:30]
-   - Duration:  about 2H 
-   - Progress: [dashbord]
-   - Additional notes: The dashbord is done with responsive and layout is ready.
+   - Start time: [11:08]
+   - End time: [11:57]
+   - Duration:  45min
+   - Progress: [sorat hesab page]
+   - Additional notes: sorat hesab is done.
   
-  
+  2. **Task 2**: [Hiisun]
+   - Start time: [18:11]
+   - End time: [21:19]
+   - Duration:  about 3 H
+   - Progress: [ 2 sefareshat and admin prof page]
+   - Additional notes: these pages is done too and 2 more to go
 
 ## Challenges and Roadblocks
 
 Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
-my time is full this days and unfortunately i cant spent good and useful time. 
+not much.
+almost done
 
 
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-the other pages of dashbord..
+next 2 page
 
 
 ## Conclusion
 some pages just need the layout and it will be done easyier.
-layout is ready and next pages will be easier to be done.!
+not much hard work remaining , it just need time to be done.
