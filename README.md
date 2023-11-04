@@ -1,31 +1,39 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [08/11]
+                                                        Daily Tasks Report - [08/13]
  
 ## Overview
 
  Hiisun
+ js learning
  
 ## Task Details
 
 1. **Task 1**: [Hiisun]
-   - Start time: [16:12]
-   - End time: [18:35]
-   - Duration:  about 2 H and 20 min
+   - Start time: [14:36]
+   - End time: [17:53]
+   - Duration:  about 2 H 
    - Progress: [fixing bugs]
-   - Additional notes: change some small details like transfering styles and remove some small parts.
+   - Additional notes: fixing some bugs in hiisun project
+
+2. **Task 2**: [Js]
+   - Start time: [18:00]
+   - End time: [19:50]
+   - Duration:  about 2 H 
+   - Progress: [season 7 of 7learn courses]
+   - Additional notes: reviewing some old parts again 
 
 ## Challenges and Roadblocks
 
 Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
-not much
+exhuasting day
 
 
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-starting learning the js again
+fixing bugs and continue to learn
 
 
 ## Conclusion
-it is new week with new plans
+progress of learning js is slow and need more time.
 
