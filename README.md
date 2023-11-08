@@ -1,39 +1,31 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [08/16]
+                                                        Daily Tasks Report - [08/17]
  
 ## Overview
 
- js learning
- form
+form
  
 ## Task Details
 
 1. **Task 1**: [Form design]
-   - Start time: [15:43]
-   - End time: [18:00]
-   - Duration:  about 2 H
-   - Progress: [Design the strart oage]
-   - Additional notes: Designing start page
-
-2. **Task 2**: [js Learning]
-   - Start time: [18:30]
-   - End time: [19:45]
-   - Duration:  about 1 H 15 min
-   - Progress: [watching next episodes of season 7 & season 10]
-   - Additional notes: basics of objects and using js in some inputs changes
+   - Start time: [16:55]
+   - End time: [19:58]
+   - Duration:  about 2 H and 40min
+   - Progress: [step one]
+   - Additional notes: Designing step one (name , family , number)
 
 ## Challenges and Roadblocks
 
 Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
-///
+some jquery part a little hard to write
 
 
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-reading the js docs and using in projects
+using jquery to generate a prv and next button for next and perv pages.
 
 
 ## Conclusion
-reading docs and r & d is better to undrestand sometimes
+using jquery is easier to run codes.
 
