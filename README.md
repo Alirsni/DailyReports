@@ -1,31 +1,31 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [08/18]
+                                                        Daily Tasks Report - [08/20]
  
 ## Overview
 
-form
+js learning
  
 ## Task Details
 
-1. **Task 1**: [Form design]
-   - Start time: [18:00]
-   - End time: [19:53]
-   - Duration:  about 1 H and 50 min
-   - Progress: [step two]
-   - Additional notes: Designing step two (job , major) and jquery for next and back button
+1. **Task 1**: [coures]
+   - Start time: [19:19]
+   - End time: [21:50]
+   - Duration:  about 2 H and 30 min
+   - Progress: [finding a good course in youtube]
+   - Additional notes: watching the start part of vids
 
 ## Challenges and Roadblocks
 
 Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
-for three and for step , using buttons is hard.
+nothing!
 
 
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-using jqyery for hide and show steps.
+continue this course aside by form project
 
 
 ## Conclusion
-handling the next and perv button is challenging and need some R&D.
+the form design still need more learning and R&D.
 
