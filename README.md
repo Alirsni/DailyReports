@@ -1,5 +1,5 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [08/28]
+                                                        Daily Tasks Report - [08/29]
  
 ## Overview
 
@@ -8,11 +8,11 @@ js learning
 ## Task Details
 
 1. **Task 1**: [js learning]
-   - Start time: [16:05]
-   - End time: [20:48]
-   - Duration:  about 4 H and 40 min
+   - Start time: [15:05]
+   - End time: [19:29]
+   - Duration:  about 4 H 
    - Progress: [watching courese and R&D]
-   - Additional notes: learning about objects and reading docs
+   - Additional notes: learning about arrays and reading docs and writing some codes and functions to better learning
 
 ## Challenges and Roadblocks
 
@@ -23,8 +23,8 @@ Throughout the day, I encountered the following challenges and roadblocks that i
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-finding a course for using codes in work
+continue this course
 
 
 ## Conclusion
-it still need more time and have to be done
+the javascript language is dificult and for using and writing code need to see some project and see how to use codes in work.
