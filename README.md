@@ -1,5 +1,5 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [08/29]
+                                                        Daily Tasks Report - [08/30]
  
 ## Overview
 
@@ -8,11 +8,11 @@ js learning
 ## Task Details
 
 1. **Task 1**: [js learning]
-   - Start time: [15:05]
-   - End time: [19:29]
-   - Duration:  about 4 H 
-   - Progress: [watching courese and R&D]
-   - Additional notes: learning about arrays and reading docs and writing some codes and functions to better learning
+   - Start time: [18:04]
+   - End time: [20:21]
+   - Duration:  about 2 H 
+   - Progress: [Reading docs]
+   - Additional notes: reading docs in w3schools about functions and variables
 
 ## Challenges and Roadblocks
 
@@ -23,8 +23,8 @@ Throughout the day, I encountered the following challenges and roadblocks that i
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-continue this course
+using w3schools to read docs and practice for js
 
 
 ## Conclusion
-the javascript language is dificult and for using and writing code need to see some project and see how to use codes in work.
+the w3school is very helpful in learning progress.
