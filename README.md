@@ -1,5 +1,5 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [09/05]
+                                                        Daily Tasks Report - [09/06]
  =
 ## Overview
 
@@ -8,11 +8,11 @@ js learning
 ## Task Details
 
 1. **Task 1**: [js learning]
-   - Start time: [18:36]
-   - End time: [21:00]
+   - Start time: [18:59]
+   - End time: [21:02]
    - Duration:  about 2 H
-   - Progress: [working with codes]
-   - Additional notes: handle the code for buttons of form (done)
+   - Progress: [reading docs]
+   - Additional notes: reading documents in w3schools
   
 ## Challenges and Roadblocks
 
@@ -27,4 +27,4 @@ reading docs in w3 schools
 
 
 ## Conclusion
-some days it get boring.
+working with code are better at all
