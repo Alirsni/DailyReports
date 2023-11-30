@@ -16,8 +16,8 @@ form js
    - Additional notes: work on validations of inputs for forwarding the form
   
   2. **Task 2**: [jason]
-   - Start time: [19:10]
-   - End time: [21:00]
+   - Start time: [21:00]
+   - End time: [23:00]
    - Duration:  about 2 H
    - Progress: [watching some courses about jason]
    - Additional notes:-
