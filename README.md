@@ -1,5 +1,5 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [09/07]
+                                                        Daily Tasks Report - [09/08]
  =
 ## Overview
 
@@ -9,25 +9,31 @@ form js
 ## Task Details
 
 1. **Task 1**: [form js]
-   - Start time: [20:09]
-   - End time: [22:50]
-   - Duration:  about 2 H and 30 min
+   - Start time: [19:10]
+   - End time: [21:00]
+   - Duration:  about 2 H
    - Progress: [working on form]
    - Additional notes: work on validations of inputs for forwarding the form
+  
+  2. **Task 2**: [jason]
+   - Start time: [19:10]
+   - End time: [21:00]
+   - Duration:  about 2 H
+   - Progress: [watching some courses about jason]
+   - Additional notes:-
   
 ## Challenges and Roadblocks
 
 Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
-seems like chechboxes and radio inputs doesn't have validate 
-it is very challenging for validate these.
+not much
 
 
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-reading docs in w3 schools and work on form logic
+the check box of form still need to be done and maybe it will expend more of steps
 
 
 ## Conclusion
-writing codes is good 
-but with little help it will be better for best learning
+almost of my time goes for learning by myself
+its getting borring a little bit.
