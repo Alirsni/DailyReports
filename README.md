@@ -1,5 +1,5 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [09/08]
+                                                        Daily Tasks Report - [09/09]
  =
 ## Overview
 
@@ -9,31 +9,24 @@ form js
 ## Task Details
 
 1. **Task 1**: [form js]
-   - Start time: [19:10]
-   - End time: [21:00]
-   - Duration:  about 2 H
-   - Progress: [working on form]
-   - Additional notes: work on validations of inputs for forwarding the form
+   - Start time: [18:17]
+   - End time: [21:21]
+   - Duration:  about 3 H
+   - Progress: [working on form js]
+   - Additional notes: work on validations of inputs for forwarding the form in last section for selecting three button at least
   
-  2. **Task 2**: [jason]
-   - Start time: [21:00]
-   - End time: [23:00]
-   - Duration:  about 2 H
-   - Progress: [watching some courses about jason]
-   - Additional notes:-
   
 ## Challenges and Roadblocks
 
 Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
-not much
+for this section validation is challenging
 
 
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-the check box of form still need to be done and maybe it will expend more of steps
+another form with two ways in steps 
 
 
 ## Conclusion
-almost of my time goes for learning by myself
-its getting borring a little bit.
+some task may help more.
