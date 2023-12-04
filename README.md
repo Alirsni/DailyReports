@@ -1,5 +1,5 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [09/11]
+                                                        Daily Tasks Report - [09/12]
  =
 ## Overview
 
@@ -8,12 +8,12 @@ form js
  
 ## Task Details
 
-1. **Task 1**: [form js]
-   - Start time: [18:17]
-   - End time: [21:21]
-   - Duration:  about 3 H
-   - Progress: [working on form js]
-   - Additional notes: work on validations of inputs for forwarding the form in last section for selecting three button at least and reading some docs and watching videos of some validations logic
+1. **Task 1**: [js]
+   - Start time: [16:24]
+   - End time: [21:02]
+   - Duration:  about 4 H
+   - Progress: [working on form js and watching courses]
+   - Additional notes: work on some part of validations and reading docs and watching a video of some mini projects in youtube.
   
   
 ## Challenges and Roadblocks
@@ -25,8 +25,8 @@ not much
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-another form with two ways in steps 
+watching mini projects
 
 
 ## Conclusion
-new is always better:)
+mini projects can help for better learning and code writing.
