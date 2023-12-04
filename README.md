@@ -9,8 +9,8 @@ form js
 ## Task Details
 
 1. **Task 1**: [js]
-   - Start time: [16:24]
-   - End time: [21:02]
+   - Start time: [15:44]
+   - End time: [20:17]
    - Duration:  about 4 H
    - Progress: [working on form js and watching courses]
    - Additional notes: work on some part of validations and reading docs and watching a video of some mini projects in youtube.
