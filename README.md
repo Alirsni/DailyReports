@@ -1,19 +1,18 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [09/12]
+                                                        Daily Tasks Report - [09/13]
  =
 ## Overview
 
 js learning
-form js
  
 ## Task Details
 
 1. **Task 1**: [js]
-   - Start time: [15:44]
-   - End time: [20:17]
+   - Start time: [16:14]
+   - End time: [20:46]
    - Duration:  about 4 H
-   - Progress: [working on form js and watching courses]
-   - Additional notes: work on some part of validations and reading docs and watching a video of some mini projects in youtube.
+   - Progress: [watching courses]
+   - Additional notes: watching a video of some mini projects in youtube like how to use dom elements in js and do some changes on them and how to storage them
   
   
 ## Challenges and Roadblocks
@@ -25,8 +24,9 @@ not much
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-watching mini projects
+do some mini projects 
 
 
 ## Conclusion
-mini projects can help for better learning and code writing.
+mini projects are good training for js.
+js is very vast. it never ends.
