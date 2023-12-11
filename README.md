@@ -1,5 +1,5 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [09/14]
+                                                        Daily Tasks Report - [09/18]
  =
 ## Overview
 
@@ -8,9 +8,9 @@ js learning
 ## Task Details
 
 1. **Task 1**: [js]
-   - Start time: [18:24]
-   - End time: [20:32]
-   - Duration:  about 2 H
+   - Start time: [18:57]
+   - End time: [21:21]
+   - Duration:  about 2 H and A half
    - Progress: [watching courses]
    - Additional notes: watching a mini project with js in youtube
   
@@ -28,4 +28,4 @@ do some js training
 
 
 ## Conclusion
-i'm little confused these days.
+road map must be available to train better
