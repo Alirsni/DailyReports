@@ -1,31 +1,31 @@
 # Ali Roshani Daily tasks
-                                                        Daily Tasks Report - [09/19]
+                                                        Daily Tasks Report - [09/23]
  =
 ## Overview
 
-js learning
+React
  
 ## Task Details
 
 1. **Task 1**: [js]
-   - Start time: [19:05]
-   - End time: [21:05]
-   - Duration:  about 2 H
+   - Start time: [15:25]
+   - End time: [19:14]
+   - Duration:  about 3 H 45
    - Progress: [reading docs]
-   - Additional notes: reading docs for form validations
+   - Additional notes: reasearching about react and introduction & hr meeting
   
   
 ## Challenges and Roadblocks
 
 Throughout the day, I encountered the following challenges and roadblocks that impacted my progress:
-nothing yet
+its new begining
 
 
 ## Next Steps
 
 Based on the progress made today and the remaining tasks, the following steps should be taken:
-do some js training!!
+start to learning react in youtube
 
 
 ## Conclusion
-i dont know whats my next plan is
+its goona be good
